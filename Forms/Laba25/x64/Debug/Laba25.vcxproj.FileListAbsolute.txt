@@ -1,0 +1,4 @@
+C:\Users\abdurosik\source\repos\Laba\Laba25\x64\Debug\Laba25.vcxproj.AssemblyReference.cache
+C:\Users\abdurosik\source\repos\Laba\Laba25\x64\Debug\Laba25.MyForm.resources
+C:\Users\abdurosik\source\repos\Laba\Laba25\x64\Debug\Laba25.vcxproj.GenerateResource.cache
+C:\Users\abdurosik\source\repos\Laba\Laba25\x64\Debug\Laba25.vcxproj.ResolveComReference.cache

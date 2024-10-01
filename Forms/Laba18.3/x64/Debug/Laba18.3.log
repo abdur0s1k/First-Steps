@@ -1,0 +1,10 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Laba18.3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  MyForm.cpp
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(95,34): error C3149: "cli::array<int,5>": невозможно использовать здесь этот тип без "^" верхнего уровня
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(95,1): error C3149: "cli::array<int,5>": невозможно использовать здесь этот тип без "^" верхнего уровня
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(95,1): error C2767: несоответствие размерности массива управляемый: требуется 5 аргументов, представлено 1
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(101,20): error C3262: недопустимая индексация массива: 1 измерение указано для 5-размерного "cli::array<cli::array<int,5> ^,5> ^"
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(101,23): error C3262: недопустимая индексация массива: 1 измерение указано для 5-размерного "cli::array<int,5> ^"
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(109,31): error C3262: недопустимая индексация массива: 1 измерение указано для 5-размерного "cli::array<cli::array<int,5> ^,5> ^"
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.h(109,34): error C3262: недопустимая индексация массива: 1 измерение указано для 5-размерного "cli::array<int,5> ^"
+C:\Users\abdurosik\source\repos\Laba\Laba18.3\MyForm.cpp(8,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"

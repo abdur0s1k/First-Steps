@@ -1,0 +1,2 @@
+﻿  ClassLibrary1.cpp
+C:\Users\abdurosik\source\repos\Laba\ClassLibrary1\ClassLibrary1.cpp(12,7): error C2086: int ClassLibrary1::Class1::number3: переопределение

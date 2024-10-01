@@ -1,0 +1,12 @@
+﻿  MyForm.cpp
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(136,1): warning C4309: инициализация: усечение константного значения
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(136,1): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Selection" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(137,1): warning C4309: инициализация: усечение константного значения
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(137,1): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::_Document" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(137,1): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Document" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(142,1): warning C4309: инициализация: усечение константного значения
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(142,1): message : Сообщение диагностики возникло при импорте типа "Microsoft::Office::Interop::Word::Range" из сборки "Interop.Microsoft.Office.Interop.Word.8.7, Version=8.7.0.0, Culture=neutral, PublicKeyToken=null".
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(191,60): warning C4101: ex: неиспользованная локальная переменная
+C:\Users\abdurosik\source\repos\Laba\Laba25\MyForm.h(228,29): warning C4101: ex: неиспользованная локальная переменная
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Laba25.vcxproj -> C:\Users\abdurosik\source\repos\Laba\x64\Debug\Laba25.exe
