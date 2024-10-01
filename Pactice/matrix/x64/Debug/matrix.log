@@ -1,0 +1,168 @@
+﻿  matrix.cpp
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(351,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(352,23): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(353,25): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(360,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(361,23): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(396,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(397,23): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(398,21): error C2146: синтаксическая ошибка: отсутствие ")" перед идентификатором "i"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(398,29): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(398,34): error C2059: синтаксическая ошибка: )
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(399,21): error C2059: синтаксическая ошибка: ;
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,7): error C2143: синтаксическая ошибка: отсутствие ";" перед "<<"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,7): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,7): error C2059: синтаксическая ошибка: <<
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,2): error C2059: синтаксическая ошибка: for
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,2): error C2143: синтаксическая ошибка: отсутствие ")" перед ";"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,20): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,20): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,20): error C2059: синтаксическая ошибка: <
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,26): error C2143: синтаксическая ошибка: отсутствие ";" перед "++"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,26): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,25): error C2086: int i: переопределение
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,18): message : см. объявление "i"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,26): error C2059: синтаксическая ошибка: ++
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,28): error C2059: синтаксическая ошибка: )
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,30): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(405,30): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(412,2): error C2059: синтаксическая ошибка: delete
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(414,1): error C2059: синтаксическая ошибка: }
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(414,1): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(416,14): error C2143: синтаксическая ошибка: отсутствие ";" перед "{"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(416,14): error C2447: {: отсутствует заголовок функции (возможно, используется формальный список старого типа)
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(463,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(463,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [39]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(463,7): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(471,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(471,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [34]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(471,49): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(471,49): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(471,49): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(478,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(478,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [8]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(478,23): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(478,23): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(478,23): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(481,4): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(481,25): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [2]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(481,25): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(483,3): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(483,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(483,11): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(483,11): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(486,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(494,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(494,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [30]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(494,71): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(494,71): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(494,71): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(495,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(496,23): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(497,4): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(497,25): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [2]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(497,25): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(499,3): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(499,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(499,11): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(499,11): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(508,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(508,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [39]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(508,7): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(516,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(516,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [34]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(516,49): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(516,49): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(516,49): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(523,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(523,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [8]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(523,23): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(523,23): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(523,23): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(526,4): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(526,25): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [2]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(526,25): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(528,3): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(528,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(528,11): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(528,11): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(531,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(534,26): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(534,37): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(535,11): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(535,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(539,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(539,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [56]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(539,71): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(539,71): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(539,71): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(540,22): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(541,23): error C2065: M: необъявленный идентификатор
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(542,4): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(542,25): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [2]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(542,25): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(544,3): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(544,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(544,11): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(544,11): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(553,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(553,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [39]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(553,7): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(561,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(561,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [34]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(561,49): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(561,49): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(561,49): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(568,2): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(568,7): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [8]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(568,23): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(568,23): error C2568: <<: не удается разрешить перегрузку функции
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(568,23): message : может быть "std::basic_ostream<_Elem,_Traits> &std::endl(std::basic_ostream<_Elem,_Traits> &)"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(571,4): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(571,25): error C2297: "<<": недопустимо, поскольку тип правого операнда — "const char [2]"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(571,25): warning C4552: "<<": результат выражения не используется
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(573,3): error C2872: cout: неоднозначный символ
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(404,2): message : может быть "int cout"
+C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.37.32822\include\iostream(40,75): message : или       "std::ostream std::cout"
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(573,11): error C2563: несоответствие в списке формальных параметров
+C:\Users\abdurosik\source\repos\proc\matrix\matrix.cpp(573,15): fatal  error C1003: число ошибок превышает 100; остановка компиляции
