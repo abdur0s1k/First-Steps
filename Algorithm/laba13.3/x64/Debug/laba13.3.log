@@ -1,0 +1,3 @@
+﻿  laba13.3.cpp
+C:\Users\abdurosik\source\repos\labi\laba13.3\laba13.3.cpp(40,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  laba13.3.vcxproj -> C:\Users\abdurosik\source\repos\labi\x64\Debug\laba13.3.exe
