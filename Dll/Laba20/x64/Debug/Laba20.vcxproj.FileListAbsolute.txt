@@ -1,0 +1,4 @@
+C:\Users\abdurosik\source\repos\Laba20\Laba20\x64\Debug\Laba20.vcxproj.AssemblyReference.cache
+C:\Users\abdurosik\source\repos\Laba20\Laba20\x64\Debug\Laba20.MyForm.resources
+C:\Users\abdurosik\source\repos\Laba20\Laba20\x64\Debug\Laba20.vcxproj.GenerateResource.cache
+C:\Users\abdurosik\source\repos\Laba20\Laba20\x64\Debug\Laba20.vcxproj.CopyComplete
